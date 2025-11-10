@@ -1,5 +1,8 @@
 AZURE DEVOPS
 https://dev.azure.com/Challenge-Sprint-QA/Plano-de-Testes-Manuais
 
+LINK DIRETO
+https://dev.azure.com/Challenge-Sprint-QA/Plano-de-Testes-Manuais/_boards/board/t/Plano-de-Testes-Manuais%20Team/Issues
+
 LINK YOUTUBE
 https://youtu.be/YHmJINx5lU0
